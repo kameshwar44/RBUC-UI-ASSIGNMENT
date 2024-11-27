@@ -88,4 +88,4 @@ src/
 - **Interactive Charts**: 
   - Bar charts for role permissions
   - Pie charts for permission distribution
-  - User
+  - User role
